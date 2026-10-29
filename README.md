@@ -173,3 +173,4 @@ CI/CD Pipeline
 CI/CD Pipeline
 automatic testing
 automation
+building
